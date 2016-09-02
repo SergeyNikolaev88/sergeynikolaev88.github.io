@@ -1,0 +1,4 @@
+Sitemap: https://sergeynikolaev88.github.io/sitemapindex.xml
+
+User-Agent: *
+Host: sergeynikolaev88.github.io
